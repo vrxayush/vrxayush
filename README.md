@@ -17,13 +17,13 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=vrxayush&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vrxayush&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://streak-stats.demolab.com?user=vrxayush&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
 ## 💻 Top Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vrxayush&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" width="50%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vrxayush&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=1800" width="50%" />
 </p>
 
 ---
@@ -31,9 +31,10 @@
 ## 🔐 What I Actually Build
 
 <p align="center">
-  <a href="https://github.com/vrxayush/ASE-file-encryption">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=vrxayush&repo=ASE-file-encryption&theme=tokyonight&hide_border=true" />
+  <a href="https://github.com/vrxayush/AES-file-encryption">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=vrxayush&repo=AES-file-encryption&theme=tokyonight&hide_border=true" />
   </a>
+
   <a href="https://github.com/vrxayush/network-packet-sniffer-ids">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=vrxayush&repo=network-packet-sniffer-ids&theme=tokyonight&hide_border=true" />
   </a>
