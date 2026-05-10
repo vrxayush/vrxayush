@@ -23,7 +23,7 @@
 ## 💻 Top Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vrxayush&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=1800" width="50%" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=vrxayush&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="50%" />
 </p>
 
 ---
