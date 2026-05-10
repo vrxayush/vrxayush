@@ -16,7 +16,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=vrxayush&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="45%" />
+  <img src="https://github-readme-stats.shion.dev/api?username=vrxayush&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="44%" />
   <img src="https://streak-stats.demolab.com?user=vrxayush&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
