@@ -45,7 +45,7 @@ Python-based AES encryption and decryption tool with secure file handling and ke
 
 <br>
 
-<a href="https://github.com/vrxayush/AES-file-encryption">
+<a href="https://github.com/vrxayush/ASE-file-encryption">
   <img src="https://img.shields.io/badge/View%20Project-0D1117?style=for-the-badge&logo=github&logoColor=00F7FF" />
 </a>
 
