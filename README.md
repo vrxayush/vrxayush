@@ -35,7 +35,7 @@
 <table align="center">
 <tr>
 
-<td width="50%">
+<td width="45%">
 
 <div align="center">
 
@@ -53,7 +53,7 @@ Python-based AES encryption and decryption tool with secure file handling and ke
 
 </td>
 
-<td width="50%">
+<td width="45%">
 
 <div align="center">
 
