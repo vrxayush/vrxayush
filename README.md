@@ -32,15 +32,47 @@
 
 ## 🔐 What I Actually Build
 
-<p align="center">
-  <a href="https://github.com/vrxayush/AES-file-encryption">
-    <img src="https://github-readme-stats.shion.dev/api/pin/?username=vrxayush&repo=AES-file-encryption&theme=tokyonight&hide_border=true" />
-  </a>
+<table align="center">
+<tr>
 
-  <a href="https://github.com/vrxayush/network-packet-sniffer-ids">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=vrxayush&repo=network-packet-sniffer-ids&theme=tokyonight&hide_border=true" />
-  </a>
-</p>
+<td width="50%">
+
+<div align="center">
+
+# 🔒 AES File Encryption
+
+Python-based AES encryption and decryption tool with secure file handling and key management.
+
+<br>
+
+<a href="https://github.com/vrxayush/AES-file-encryption">
+  <img src="https://img.shields.io/badge/View%20Project-0D1117?style=for-the-badge&logo=github&logoColor=00F7FF" />
+</a>
+
+</div>
+
+</td>
+
+<td width="50%">
+
+<div align="center">
+
+# 🌐 Packet Sniffer + IDS
+
+Custom packet sniffer and intrusion detection system using raw sockets and live traffic analysis.
+
+<br>
+
+<a href="https://github.com/vrxayush/network-packet-sniffer-ids">
+  <img src="https://img.shields.io/badge/View%20Project-0D1117?style=for-the-badge&logo=github&logoColor=00F7FF" />
+</a>
+
+</div>
+
+</td>
+
+</tr>
+</table>
 
 ### [AES File Encryption Tool](https://github.com/vrxayush/ASE-file-encryption)
 `Python` — A command-line tool for encrypting and decrypting files using AES. Built because I wanted to understand symmetric encryption at the implementation level, not just the theory. Handles key management, file I/O, and padding correctly.
