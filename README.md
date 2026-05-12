@@ -34,7 +34,7 @@
 
 <p align="center">
   <a href="https://github.com/vrxayush/AES-file-encryption">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=vrxayush&repo=AES-file-encryption&theme=tokyonight&hide_border=true" />
+    <img src="https://github-readme-stats.shion.dev/api/pin/?username=vrxayush&repo=AES-file-encryption&theme=tokyonight&hide_border=true" />
   </a>
 
   <a href="https://github.com/vrxayush/network-packet-sniffer-ids">
